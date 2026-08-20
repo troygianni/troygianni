@@ -187,6 +187,14 @@ I'm currently exploring opportunities where I can contribute, keep learning, and
 
 <br>
 
-`troy@github ~ % _`
+<div align="center">
+  <img
+    src="./mac-terminal.svg"
+    alt="Troy Conte — macOS terminal introduction"
+    width="85%"
+  />
+</div>
+
+<br>
 
 </div>
