@@ -1,11 +1,9 @@
 <div align="center">
-
-<!-- CUSTOM TROY BANNER WILL GO HERE -->
-
-<br>
-
-`Swift` &nbsp;&nbsp; `AWS` &nbsp;&nbsp; `Python` &nbsp;&nbsp; `Linux` &nbsp;&nbsp; `Docker` &nbsp;&nbsp; `Ansible`
-
+  <img
+    src="./ghbanner.png"
+    alt="Troy Conte — Software Engineer | iOS Development, Cloud & Infrastructure"
+    width="100%"
+  />
 </div>
 
 <br>
@@ -133,9 +131,9 @@ Diagnosing connectivity, validating configurations, and troubleshooting systems 
 
 ### `BUILDING //`
 
-**PetIntelHQ**
+**PetHQ**
 
-Reworking PetIntelHQ in SwiftUI with a stronger focus on architecture, UI/UX, navigation, and features inspired by real veterinary workflows.
+Reworking PetHQ in SwiftUI with a stronger focus on architecture, UI/UX, navigation, and features inspired by real veterinary workflows.
 
 </td>
 <td width="50%" valign="top">
@@ -185,7 +183,6 @@ I'm currently exploring opportunities where I can contribute, keep learning, and
 
 [LinkedIn](https://www.linkedin.com/in/troyconte7/) •
 [Portfolio](https://troygianni.github.io/) •
-[GitHub](https://github.com/troygianni) •
 [Email](mailto:contetroy22@gmail.com)
 
 <br>
