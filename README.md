@@ -8,6 +8,19 @@
 
 <br>
 
+<div align="center">
+
+![Swift](https://img.shields.io/badge/Swift-161B22?style=flat-square&logo=swift&logoColor=F05138)
+![AWS](https://img.shields.io/badge/AWS-161B22?style=flat-square&logo=amazonwebservices&logoColor=58A6FF)
+![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=A371F7)
+![Linux](https://img.shields.io/badge/Linux-161B22?style=flat-square&logo=linux&logoColor=E6EDF3)
+![Docker](https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=58A6FF)
+![Git](https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05032)
+
+</div>
+
+<br>
+
 ## 01 // FEATURED WORK
 
 <table>
@@ -16,34 +29,34 @@
 
 ### PetIntelHQ
 
-`STATUS // REBUILDING`
+![Rebuilding](https://img.shields.io/badge/STATUS-REBUILDING-A371F7?style=flat-square&labelColor=161B22)
 
-**iOS pet health management app**
+**iOS pet-health management application**
 
-An original iOS application inspired by my experience in veterinary medicine. I'm rebuilding PetIntelHQ with a stronger focus on architecture, UI/UX, data organization, and features that reflect real veterinary workflows.
+An original iOS application shaped by my experience in veterinary medicine. I’m rebuilding PetIntelHQ with a stronger focus on architecture, UI/UX, data organization, and features grounded in real veterinary workflows.
 
-**FOCUS**
+**Core focus**
 
 `Swift` `SwiftUI` `Xcode` `UI/UX`
 
-[Development Repository →](https://github.com/troygianni/PetIntelHQ)
+[View development repository →](https://github.com/troygianni/PetIntelHQ)
 
 </td>
 <td width="50%" valign="top">
 
 ### AWS Cloud Web Application
 
-`STATUS // COMPLETE`
+![Complete](https://img.shields.io/badge/STATUS-COMPLETE-58A6FF?style=flat-square&labelColor=161B22)
 
-**Cloud deployment & infrastructure project**
+**Cloud deployment and infrastructure project**
 
-Deployed and configured a web application in AWS while working hands-on with cloud infrastructure, server configuration, traffic distribution, and troubleshooting in a live cloud environment.
+Deployed and configured a web application on AWS while working directly with cloud infrastructure, server configuration, traffic distribution, and troubleshooting in a live environment.
 
-**FOCUS**
+**Core focus**
 
-`AWS` `Linux` `Cloud Deployment` `Infrastructure`
+`AWS` `Linux` `Deployment` `Infrastructure`
 
-[Source Code & Architecture →](https://github.com/troygianni/aws-cloud-web-app-project)
+[View source and architecture →](https://github.com/troygianni/aws-cloud-web-app-project)
 
 </td>
 </tr>
@@ -77,18 +90,18 @@ Deployed and configured a web application in AWS while working hands-on with clo
 
 ### SOFTWARE + iOS
 
-**Swift • SwiftUI • Python • Bash • Git • GitHub**
+**Swift · SwiftUI · Python · Bash · Git · GitHub**
 
-Building iOS applications, scripting workflows, and managing source code.
+Building native iOS applications, scripting development workflows, and managing source-controlled projects.
 
 </td>
 <td width="50%" valign="top">
 
 ### AWS + CLOUD
 
-**EC2 • IAM • Security Groups • Lambda • API Gateway**
+**EC2 · IAM · Security Groups · Lambda · API Gateway**
 
-Hands-on experience deploying, configuring, and troubleshooting AWS infrastructure.
+Deploying, configuring, securing, and troubleshooting cloud infrastructure on AWS.
 
 </td>
 </tr>
@@ -98,18 +111,18 @@ Hands-on experience deploying, configuring, and troubleshooting AWS infrastructu
 
 ### DEVOPS + AUTOMATION
 
-**Ansible • YAML • Docker • Docker Compose • IaC**
+**Ansible · YAML · Docker · Docker Compose · IaC**
 
-Automating configuration, containerizing applications, and managing repeatable infrastructure.
+Automating configuration, containerizing applications, and creating repeatable infrastructure workflows.
 
 </td>
 <td width="50%" valign="top">
 
 ### LINUX + INFRASTRUCTURE
 
-**Ubuntu • Rocky Linux • SSH • Apache • HAProxy • MariaDB/MySQL**
+**Ubuntu · Rocky Linux · SSH · Apache · HAProxy · MariaDB/MySQL**
 
-Configuring Linux servers, web services, databases, and application infrastructure.
+Configuring Linux servers, web services, databases, and supporting application infrastructure.
 
 </td>
 </tr>
@@ -117,9 +130,9 @@ Configuring Linux servers, web services, databases, and application infrastructu
 
 ### NETWORKING + TROUBLESHOOTING
 
-`Wireshark` `Nmap` `DNS` `HTTP` `Root Cause Analysis`
+`Wireshark` `Nmap` `DNS` `HTTP` `Root-Cause Analysis`
 
-Diagnosing connectivity, validating configurations, and troubleshooting systems across application and infrastructure layers.
+Diagnosing connectivity, validating configurations, and tracing problems across application and infrastructure layers.
 
 <br>
 
@@ -131,9 +144,9 @@ Diagnosing connectivity, validating configurations, and troubleshooting systems 
 
 ### `BUILDING //`
 
-**PetHQ**
+**PetIntelHQ**
 
-Reworking PetHQ in SwiftUI with a stronger focus on architecture, UI/UX, navigation, and features inspired by real veterinary workflows.
+Rebuilding PetIntelHQ in SwiftUI with an emphasis on architecture, navigation, UI/UX, and features informed by real veterinary workflows.
 
 </td>
 <td width="50%" valign="top">
@@ -142,7 +155,7 @@ Reworking PetHQ in SwiftUI with a stronger focus on architecture, UI/UX, navigat
 
 **Cloud + DevOps**
 
-Expanding my infrastructure skill set with Terraform and CI/CD concepts, with the goal of applying them to future AWS projects.
+Expanding my infrastructure skill set through Terraform and CI/CD concepts, with the goal of applying them to future AWS projects.
 
 </td>
 </tr>
@@ -154,7 +167,7 @@ Expanding my infrastructure skill set with Terraform and CI/CD concepts, with th
 
 **CompTIA Security+**
 
-Studying toward the CompTIA Security+ certification while strengthening my security, networking, and troubleshooting fundamentals.
+Strengthening my security, networking, and troubleshooting fundamentals while preparing for the CompTIA Security+ certification.
 
 </td>
 <td width="50%" valign="top">
@@ -163,7 +176,7 @@ Studying toward the CompTIA Security+ certification while strengthening my secur
 
 **Better Engineering Workflows**
 
-Adding testing, GitHub Actions, and structured development workflows so my repositories show not just what I build, but how I build it.
+Adding tests, GitHub Actions, and structured development practices so my repositories demonstrate not only what I build, but how I build it.
 
 </td>
 </tr>
@@ -171,30 +184,24 @@ Adding testing, GitHub Actions, and structured development workflows so my repos
 
 <br>
 
-## 04 // LET'S CONNECT
+## 04 // LET’S CONNECT
 
-`OPEN TO // SOFTWARE • iOS • CLOUD`
+![Open to](https://img.shields.io/badge/OPEN%20TO-SOFTWARE%20·%20iOS%20·%20CLOUD-A371F7?style=flat-square&labelColor=161B22)
 
-I'm currently exploring opportunities where I can contribute, keep learning, and build meaningful technology — especially across software engineering, iOS development, and cloud-focused roles.
+I’m exploring opportunities where I can contribute, continue learning, and build meaningful technology—particularly across software engineering, iOS development, and cloud infrastructure.
 
 <div align="center">
 
-### `LINKS //`
-
-[LinkedIn](https://www.linkedin.com/in/troyconte7/) •
-[Portfolio](https://troygianni.github.io/) •
-[Email](mailto:contetroy22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/troyconte7/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=safari&logoColor=A371F7)](https://troygianni.github.io/)
+[![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=E6EDF3)](mailto:contetroy22@gmail.com)
 
 <br>
 
-<div align="center">
-  <img
-    src="./mac-terminal.svg"
-    alt="Troy Conte — macOS terminal introduction"
-    width="85%"
-  />
-</div>
-
-<br>
+<img
+  src="./mac-terminal.svg"
+  alt="Troy Conte — macOS terminal introduction"
+  width="85%"
+/>
 
 </div>
